@@ -8,19 +8,13 @@ Metadata Extractor is a Python application that allows users to extract metadata
 To run this application, you need to install the following Python libraries:
 
 ```bash
-pip install Pillow hachoir
+ pip install Pillow hachoir
+```
+## Usage 
+Run the script using Python and follow the on-screen prompts:
 
-# Usage
-
-To use the application, run the metadata_extractor.py script and follow the prompts:
-python metadata_extractor.py
-
-You will be asked to choose the file type (image or video) and provide the file name. The metadata will be extracted and saved to a .txt file with the same name as the input file.
+```bash
+ python metadata_extractor.py
+```
 
 
-# Features
-Extract metadata from images (.jpg, .png) and videos (.mp4).
-Save metadata to a .txt file.
-User-friendly command-line interface.
-Contributing
-Contributions are welcome! Please feel free to submit a pull request or create an issue if you have any suggestions or find any bugs.
