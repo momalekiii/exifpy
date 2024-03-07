@@ -18,3 +18,5 @@ Run the script using Python and follow the on-screen prompts:
 ```
 
 
+# Attention
+please use script in folder which your file(picture or video) exist!
