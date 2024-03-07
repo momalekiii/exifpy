@@ -1,4 +1,4 @@
-# Metadata Extractor
+# Metadata Extractor                                             [فارسی](https://github.com/momalekiii/exifpy/blob/main/README_fa.md)
 
 ## Overview
 Metadata Extractor is a Python application that allows users to extract metadata from images and videos and save it to a text file. It supports `.jpg`, `.png`, and `.mp4` formats.
